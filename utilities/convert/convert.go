@@ -25,4 +25,10 @@ func main() {
 
 	fmt.Printf("\nConverting '%s' to '%s'...", *from, *to)
 
+	ranges, _ := ReadXml(*from)
+
+	for i, r := range ranges.Ranges {
+		fmt.Printf("%3d: %s %s\n%+v\n\n", i, r.Color, r.Mode, r)
+	}
+
 }
