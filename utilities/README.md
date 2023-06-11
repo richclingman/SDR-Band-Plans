@@ -2,6 +2,10 @@
 
 ## convert
 
+```shell
+go run . -from ../../US/SDR#/BandPlan.xml -to test-all-fields.json
+```
+
 Convert XML <=> JSON.
 
 Initial purpose is to get json where there

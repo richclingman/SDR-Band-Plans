@@ -25,15 +25,30 @@ func main() {
 
 	fmt.Printf("\nConverting '%s' to '%s'...", *from, *to)
 
-	ranges, _ := ReadXml(*from)
+	xmlRanges, _ := ReadXml(*from)
+	jsonRanges := NewJsonRanges()
 
-	for i, r := range ranges.Ranges {
+	for i, r := range xmlRanges.Ranges {
 		fmt.Printf("%3d: %+v\n", i, r)
 
-		// TODO: convert xml to json
+		if r.Description == "" {
+			continue
+		}
 
+		// TODO: convert xml to json
+		jsonRange := JsonRange{
+			Description:  r.Description,
+			Color:        r.Color,
+			MinFrequency: r.MinFrequency,
+			MaxFrequency: r.MaxFrequency,
+			Mode:         r.Mode,
+			Step:         r.Step,
+		}
+		jsonRanges.Ranges = append(jsonRanges.Ranges, jsonRange)
+
+		fmt.Printf("%3d: %+v\n", i, jsonRange)
 	}
 
 	// TODO: write json
-
+	jsonRanges.Write(*to)
 }
