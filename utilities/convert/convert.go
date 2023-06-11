@@ -6,10 +6,19 @@ import (
 	"os"
 )
 
+// TODO - convert the colors using "Config BandColors Modification.txt"
+// Example: 33FFC800": "#FFC80033"
+// C# has ALPHA first. Simply MOVE first 2 bytes to end, prepend "#"
+// TODO: Can we determine and use "amateur" and other SDR++ predefined colors?
+
+// TODO - In json, set name, country_name, country_code
+
 func main() {
 	from := flag.String("from", "", "File converting from")
 	to := flag.String("to", "", "File converting to")
 	flag.Parse()
+
+	// TODO: Do we want to keep these empty bands?
 
 	if *from == "" || *to == "" {
 		fmt.Print("\n\nUsage:\n")

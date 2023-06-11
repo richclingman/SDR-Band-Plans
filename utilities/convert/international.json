@@ -1,0 +1,4193 @@
+{
+  "name": "USA (KN1E)",
+  "country_name": "United States of America",
+  "country_code": "US",
+  "author_name": "Arrin Clark - KN1E",
+  "author_url": "https://github.com/Arrin-KN1E",
+  "bands": [
+    {
+      "name": "Unallocated",
+      "type": "40FFFFFF",
+      "start": 0,
+      "end": 8300,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Radionavigation/ Lightning Detection Systems",
+      "type": "5500C9C9",
+      "start": 8300,
+      "end": 14000,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC) Communications",
+      "type": "40BAFD00",
+      "start": 14000,
+      "end": 19650,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "NWC (AU)",
+      "type": "5580C0C0",
+      "start": 19650,
+      "end": 19950,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "20KHz Time Signal",
+      "type": "44FF00FF",
+      "start": 19950,
+      "end": 20050,
+      "mode": "AM",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 20050,
+      "end": 21250,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "NPM (US)",
+      "type": "5580C0C0",
+      "start": 21250,
+      "end": 21550,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 21550,
+      "end": 24650,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "NLK (US)(Jim Creek)",
+      "type": "5580C0C0",
+      "start": 24650,
+      "end": 24950,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 24950,
+      "end": 25050,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "NML (US)",
+      "type": "5580C0C0",
+      "start": 25050,
+      "end": 25350,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 25350,
+      "end": 26750,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "NOV (US)",
+      "type": "5580C0C0",
+      "start": 26750,
+      "end": 27050,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 27050,
+      "end": 37850,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "SHR (SE)",
+      "type": "5580C0C0",
+      "start": 37850,
+      "end": 38150,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 38150,
+      "end": 39950,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "JJY-40 (JP)",
+      "type": "44FF00FF",
+      "start": 39950,
+      "end": 40050,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 40050,
+      "end": 40250,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "SAS/SRC (SE)",
+      "type": "5580C0C0",
+      "start": 40250,
+      "end": 40550,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 40550,
+      "end": 42350,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "SAS2 (SE)",
+      "type": "5580C0C0",
+      "start": 42350,
+      "end": 42650,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 42650,
+      "end": 44050,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "SAS3 (SE)",
+      "type": "5580C0C0",
+      "start": 44050,
+      "end": 44350,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 44350,
+      "end": 59500,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "WWVB NIST",
+      "type": "44FF00FF",
+      "start": 59500,
+      "end": 60500,
+      "mode": "AM",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 60500,
+      "end": 66335,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "RBU (RU)",
+      "type": "44FF00FF",
+      "start": 66335,
+      "end": 66985,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 66985,
+      "end": 68350,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "BPC (CN)",
+      "type": "44FF00FF",
+      "start": 68350,
+      "end": 68650,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 68650,
+      "end": 76850,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "DCF77 (DE)",
+      "type": "44FF00FF",
+      "start": 76850,
+      "end": 78150,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Power Line Carrier (PLC)",
+      "type": "40BAFD00",
+      "start": 78150,
+      "end": 80850,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "GYN2 GBR (UK)",
+      "type": "5580C0C0",
+      "start": 80850,
+      "end": 81150,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Radiolocation",
+      "type": "55008080",
+      "start": 81150,
+      "end": 135700,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "2200m Ham Band|  Tests, Transatlantic Window ",
+      "type": "50FF0000",
+      "start": 135700,
+      "end": 136000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "2200m Telegraphy",
+      "type": "50E9E9E9",
+      "start": 136000,
+      "end": 137400,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Digital",
+      "type": "500000FF",
+      "start": 137400,
+      "end": 137600,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Slow Telegraphy   |2200m Ham Band",
+      "type": "50E9E9E9",
+      "start": 137600,
+      "end": 137800,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile Service",
+      "type": "55008080",
+      "start": 137800,
+      "end": 148500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Long Wave",
+      "type": "505347FF",
+      "start": 148500,
+      "end": 160000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "1750m (LowFER) and Long Wave",
+      "type": "50FF44AA",
+      "start": 160000,
+      "end": 161850,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "TDF (FR)",
+      "type": "44FF00FF",
+      "start": 161850,
+      "end": 162150,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "1750m (LowFER) and Long Wave",
+      "type": "50FF44AA",
+      "start": 162150,
+      "end": 190000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Long Wave",
+      "type": "505347FF",
+      "start": 190000,
+      "end": 196500,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "BBC Radio 4",
+      "type": "5580C0C0",
+      "start": 196500,
+      "end": 199500,
+      "mode": "AM",
+      "step": "1"
+    },
+    {
+      "name": "Long Wave",
+      "type": "505347FF",
+      "start": 199500,
+      "end": 283500,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Radionavigation",
+      "type": "55008080",
+      "start": 283500,
+      "end": 472000,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "630m Ham Band",
+      "type": "50FF0000",
+      "start": 472000,
+      "end": 479000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile/ Aeronautical Radionavigation/ RFID",
+      "type": "55008080",
+      "start": 479000,
+      "end": 525000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Medium Wave (212m)",
+      "type": "505D63FF",
+      "start": 525000,
+      "end": 535000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "AM Radio",
+      "type": "33FF0000",
+      "start": 535000,
+      "end": 1705000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Radiolocation Beacons",
+      "type": "55008080",
+      "start": 1705000,
+      "end": 1800000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "160m Ham\tBand|  Digital",
+      "type": "508000FF",
+      "start": 1800000,
+      "end": 1810000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "160m",
+      "type": "50FF0000",
+      "start": 1810000,
+      "end": 1843000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "160m, SSB, SSTV",
+      "type": "50FF0000",
+      "start": 1843000,
+      "end": 1995000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "Experimental, Beacons  |160m Ham Band",
+      "type": "503CCCFF",
+      "start": 1995000,
+      "end": 2000000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile",
+      "type": "55008080",
+      "start": 2000000,
+      "end": 2025000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Oceanographic Buoys",
+      "type": "5500C9C9",
+      "start": 2025000,
+      "end": 2045000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile",
+      "type": "55008080",
+      "start": 2045000,
+      "end": 2173500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Distress and Calling for Maritime and Aeronautical ",
+      "type": "50FF0091",
+      "start": 2173500,
+      "end": 2190500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile",
+      "type": "55008080",
+      "start": 2190500,
+      "end": 2300000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (Tropical Band 120m) Broadcast",
+      "type": "505D63FF",
+      "start": 2300000,
+      "end": 2495000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "WWV NIST",
+      "type": "44FF00FF",
+      "start": 2495000,
+      "end": 2505000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile",
+      "type": "55008080",
+      "start": 2505000,
+      "end": 2850000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Transoceanic Flights (Aeronautical Mobile)",
+      "type": "40AFFFEE",
+      "start": 2850000,
+      "end": 3155000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile",
+      "type": "55008080",
+      "start": 3155000,
+      "end": 3200000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (Tropical Band 90m) Broadcast",
+      "type": "505D63FF",
+      "start": 3200000,
+      "end": 3329000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "CHU Canada",
+      "type": "44FF00FF",
+      "start": 3329000,
+      "end": 3331000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (Tropical Band 90m) Broadcast",
+      "type": "505D63FF",
+      "start": 3331000,
+      "end": 3400000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Aeronautical",
+      "type": "40AFFFEE",
+      "start": 3400000,
+      "end": 3500000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "80m Ham Band|",
+      "type": "50FF0000",
+      "start": 3500000,
+      "end": 3570000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "RTTY/Data DX",
+      "type": "50FFFFFF",
+      "start": 3570000,
+      "end": 3600000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "80m",
+      "type": "50FF0000",
+      "start": 3600000,
+      "end": 3754500,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "The Pip (Night)",
+      "type": "50DD1111",
+      "start": 3754500,
+      "end": 3757500,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "80m",
+      "type": "50FF0000",
+      "start": 3757500,
+      "end": 3790000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "DX window",
+      "type": "40FF0000",
+      "start": 3790000,
+      "end": 3800000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "80m",
+      "type": "50FF0000",
+      "start": 3800000,
+      "end": 3882000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "AM calling frequency",
+      "type": "5000FF00",
+      "start": 3882000,
+      "end": 3888000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "80m Ham Band",
+      "type": "50FF0000",
+      "start": 3888000,
+      "end": 3900000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "Shared 80m| and Shortwave (75m) Broadcast",
+      "type": "40FF00FF",
+      "start": 3900000,
+      "end": 4000000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "(Ship TX) Maritime",
+      "type": "55008080",
+      "start": 4000000,
+      "end": 4063500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "ITU Ch. 401 (Ship TX)",
+      "type": "55008080",
+      "start": 4063500,
+      "end": 4066500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "402",
+      "type": "5500C9C9",
+      "start": 4066500,
+      "end": 4069500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "403",
+      "type": "55008080",
+      "start": 4069500,
+      "end": 4072500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "404",
+      "type": "5500C9C9",
+      "start": 4072500,
+      "end": 4075500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "405",
+      "type": "55008080",
+      "start": 4075500,
+      "end": 4078500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "406",
+      "type": "5500C9C9",
+      "start": 4078500,
+      "end": 4081500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "407",
+      "type": "55008080",
+      "start": 4081500,
+      "end": 4084500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "408",
+      "type": "5500C9C9",
+      "start": 4084500,
+      "end": 4087500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "409",
+      "type": "55008080",
+      "start": 4087500,
+      "end": 4090500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "410",
+      "type": "5500C9C9",
+      "start": 4090500,
+      "end": 4093500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "411",
+      "type": "55008080",
+      "start": 4093500,
+      "end": 4096500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "412",
+      "type": "5500C9C9",
+      "start": 4096500,
+      "end": 4099500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "413",
+      "type": "55008080",
+      "start": 4099500,
+      "end": 4102500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "414",
+      "type": "5500C9C9",
+      "start": 4102500,
+      "end": 4105500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "415",
+      "type": "55008080",
+      "start": 4105500,
+      "end": 4108500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "416",
+      "type": "5500C9C9",
+      "start": 4108500,
+      "end": 4111500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "417",
+      "type": "55008080",
+      "start": 4111500,
+      "end": 4114500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "418",
+      "type": "5500C9C9",
+      "start": 4114500,
+      "end": 4117500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "419",
+      "type": "55008080",
+      "start": 4117500,
+      "end": 4120500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "420",
+      "type": "5500C9C9",
+      "start": 4120500,
+      "end": 4123500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "421 (Distress/ Safety)",
+      "type": "50FF0091",
+      "start": 4123500,
+      "end": 4126500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "422",
+      "type": "55008080",
+      "start": 4126500,
+      "end": 4129500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "423",
+      "type": "5500C9C9",
+      "start": 4129500,
+      "end": 4132500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "424",
+      "type": "55008080",
+      "start": 4132500,
+      "end": 4135500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "425",
+      "type": "5500C9C9",
+      "start": 4135500,
+      "end": 4138500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "426",
+      "type": "55008080",
+      "start": 4138500,
+      "end": 4141500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "427",
+      "type": "5500C9C9",
+      "start": 4141500,
+      "end": 4144500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "(Ship TX) Maritime",
+      "type": "55008080",
+      "start": 4144500,
+      "end": 4348000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Coast TX) Maritime",
+      "type": "55008080",
+      "start": 4348000,
+      "end": 4349500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "ITU Ch. 428 (Coast TX)",
+      "type": "5500C9C9",
+      "start": 4349500,
+      "end": 4352500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "429",
+      "type": "55008080",
+      "start": 4352500,
+      "end": 4355500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "401",
+      "type": "55008080",
+      "start": 4355500,
+      "end": 4358500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "402",
+      "type": "5500C9C9",
+      "start": 4358500,
+      "end": 4361500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "403",
+      "type": "55008080",
+      "start": 4361500,
+      "end": 4364500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "404",
+      "type": "5500C9C9",
+      "start": 4364500,
+      "end": 4367500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "405",
+      "type": "55008080",
+      "start": 4367500,
+      "end": 4370500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "406",
+      "type": "5500C9C9",
+      "start": 4370500,
+      "end": 4373500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "407",
+      "type": "55008080",
+      "start": 4373500,
+      "end": 4376500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "408",
+      "type": "5500C9C9",
+      "start": 4376500,
+      "end": 4379500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "409",
+      "type": "55008080",
+      "start": 4379500,
+      "end": 4382500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "410",
+      "type": "5500C9C9",
+      "start": 4382500,
+      "end": 4385500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "411",
+      "type": "55008080",
+      "start": 4385500,
+      "end": 4388500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "412",
+      "type": "5500C9C9",
+      "start": 4388500,
+      "end": 4391500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "413",
+      "type": "55008080",
+      "start": 4391500,
+      "end": 4394500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "414",
+      "type": "5500C9C9",
+      "start": 4394500,
+      "end": 4397500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "415",
+      "type": "55008080",
+      "start": 4397500,
+      "end": 4400500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "416",
+      "type": "5500C9C9",
+      "start": 4400500,
+      "end": 4403500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "417",
+      "type": "55008080",
+      "start": 4403500,
+      "end": 4406500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "418",
+      "type": "5500C9C9",
+      "start": 4406500,
+      "end": 4409500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "419",
+      "type": "55008080",
+      "start": 4409500,
+      "end": 4412500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "420",
+      "type": "5500C9C9",
+      "start": 4412500,
+      "end": 4415500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "421",
+      "type": "55008080",
+      "start": 4415500,
+      "end": 4418500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "422",
+      "type": "5500C9C9",
+      "start": 4418500,
+      "end": 4421500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "423",
+      "type": "55008080",
+      "start": 4421500,
+      "end": 4424500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "424",
+      "type": "5500C9C9",
+      "start": 4424500,
+      "end": 4427500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "425",
+      "type": "55008080",
+      "start": 4427500,
+      "end": 4430500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "426",
+      "type": "5500C9C9",
+      "start": 4430500,
+      "end": 4433500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "427",
+      "type": "55008080",
+      "start": 4433500,
+      "end": 4436500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Coast TX) Maritime",
+      "type": "55008080",
+      "start": 4436500,
+      "end": 4623500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "UVB-76 (Lower)",
+      "type": "50DD1111",
+      "start": 4623500,
+      "end": 4626500,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "(Coast TX) Maritime",
+      "type": "55008080",
+      "start": 4626500,
+      "end": 4750000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (Tropical Band 60m) Broadcast",
+      "type": "505D63FF",
+      "start": 4750000,
+      "end": 4808500,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "UVB-76 (Upper)",
+      "type": "50DD1111",
+      "start": 4808500,
+      "end": 4811500,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Shortwave (Tropical Band 60m) Broadcast",
+      "type": "505D63FF",
+      "start": 4811500,
+      "end": 4995000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Standard Frequency and Time Signal",
+      "type": "44FF00FF",
+      "start": 4995000,
+      "end": 5005000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (Tropical Band 60m) Broadcast",
+      "type": "505D63FF",
+      "start": 5005000,
+      "end": 5060000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "Maritime Mobile/ Private Land Mobile",
+      "type": "55008080",
+      "start": 5060000,
+      "end": 5330500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "60m Ham Band| Ch. 1",
+      "type": "500000FF",
+      "start": 5330500,
+      "end": 5333400,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Ch. 2 (60m)",
+      "type": "500000FF",
+      "start": 5346500,
+      "end": 5349400,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Ch. 3 (60m)",
+      "type": "500000FF",
+      "start": 5357000,
+      "end": 5359900,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Ch. 4 (60m)",
+      "type": "500000FF",
+      "start": 5371500,
+      "end": 5374400,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Ch. 5 | 60m Ham Band",
+      "type": "500000FF",
+      "start": 5403500,
+      "end": 5406400,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Aeronautical/ Maritime",
+      "type": "505D88FF",
+      "start": 5406400,
+      "end": 5446500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "The Pip (Day)",
+      "type": "50DD1111",
+      "start": 5446500,
+      "end": 5449500,
+      "mode": "CW",
+      "step": "1"
+    },
+    {
+      "name": "Aeronautical/ Maritime",
+      "type": "505D88FF",
+      "start": 5449500,
+      "end": 5900000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (49m) Broadcast",
+      "type": "505D63FF",
+      "start": 5900000,
+      "end": 6200000,
+      "mode": "AM",
+      "step": "10"
+    },
+    {
+      "name": "(Ship TX) Maritime",
+      "type": "55008080",
+      "start": 6200000,
+      "end": 6214750,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Distress",
+      "type": "50FF0091",
+      "start": 6213750,
+      "end": 6216250,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "(Ship TX) Maritime",
+      "type": "55008080",
+      "start": 6216250,
+      "end": 6342500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "(Transoceanic Flights) Aeronautical and (Ship/Shore) Maritime",
+      "type": "505D88FF",
+      "start": 6342500,
+      "end": 6765000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "ISM Band (50m)",
+      "type": "44006179",
+      "start": 6765000,
+      "end": 6795000,
+      "mode": "NFM",
+      "step": "10"
+    },
+    {
+      "name": "Long Distance Communications",
+      "type": "55008080",
+      "start": 6795000,
+      "end": 7000000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "40m Ham Band|  ",
+      "type": "50FF0000",
+      "start": 7000000,
+      "end": 7080000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "RTTY/Data",
+      "type": "500089FF",
+      "start": 7080000,
+      "end": 7169000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "SSTV",
+      "type": "50FF004D",
+      "start": 7169000,
+      "end": 7173000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "40m",
+      "type": "50FF0000",
+      "start": 7173000,
+      "end": 7200000,
+      "mode": "LSB",
+      "step": "10"
+    },
+    {
+      "name": "Shared 40m and Shortwave (41m) Broadcast",
+      "type": "50AD63FF",
+      "start": 7200000,
+      "end": 7300000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (41m) Broadcast",
+      "type": "505D63FF",
+      "start": 7300000,
+      "end": 7450000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 7450000,
+      "end": 7633500,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "MARS",
+      "type": "5090EE90",
+      "start": 7633500,
+      "end": 7636500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 7636500,
+      "end": 7850000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 7850000,
+      "end": 8289750,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Distress",
+      "type": "50FF0091",
+      "start": 8289750,
+      "end": 8292250,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 8292250,
+      "end": 8680000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Transoceanic Flights) Aeronautical and (Ship/Shore) Maritime",
+      "type": "505D88FF",
+      "start": 8680000,
+      "end": 9108000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Maritime Mobile/ Private Land Mobile",
+      "type": "55008080",
+      "start": 9108000,
+      "end": 9400000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (31m) Broadcast",
+      "type": "505D63FF",
+      "start": 9400000,
+      "end": 9900000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Private Land Mobile",
+      "type": "55008080",
+      "start": 9900000,
+      "end": 9995000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Standard Frequency and Time Signal",
+      "type": "44FF00FF",
+      "start": 9995000,
+      "end": 10005000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Aeronautical",
+      "type": "40AFFFEE",
+      "start": 10005000,
+      "end": 10100000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "30m Ham Band|  ",
+      "type": "50FF0000",
+      "start": 10100000,
+      "end": 10130000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "RTTY",
+      "type": "5000FF00",
+      "start": 10130000,
+      "end": 10140000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Packet  |30m Ham Band",
+      "type": "5000B3FF",
+      "start": 10140000,
+      "end": 10150000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Aeronautical",
+      "type": "55008080",
+      "start": 10150000,
+      "end": 11407000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "MARS",
+      "type": "5090EE90",
+      "start": 11407000,
+      "end": 11410000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Aeronautical",
+      "type": "55008080",
+      "start": 11410000,
+      "end": 11600000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (25m) Broadcast",
+      "type": "505D63FF",
+      "start": 11600000,
+      "end": 12100000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 12100000,
+      "end": 12288750,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Distress",
+      "type": "50FF0091",
+      "start": 12288750,
+      "end": 12291250,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 12291250,
+      "end": 12787900,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Transoceanic Flights) Aeronautical and (Ship/Shore) Maritime",
+      "type": "505D88FF",
+      "start": 12791900,
+      "end": 13360000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 13360000,
+      "end": 13410000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 13410000,
+      "end": 13553000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "22m (HiFER) Band and 22m ISM",
+      "type": "50FF0000",
+      "start": 13553000,
+      "end": 13567000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "22m ISM Band",
+      "type": "44006179",
+      "start": 13567000,
+      "end": 13570000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (22m) Broadcast",
+      "type": "505D63FF",
+      "start": 13570000,
+      "end": 13870000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "MARS",
+      "type": "5090EE90",
+      "start": 13927000,
+      "end": 13930000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "20m Ham Band|",
+      "type": "50FF0000",
+      "start": 14000000,
+      "end": 14070000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "RTTY",
+      "type": "500000FF",
+      "start": 14070000,
+      "end": 14095000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Packet",
+      "type": "5000B3FF",
+      "start": 14095000,
+      "end": 14099500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "NCDXF Beacons",
+      "type": "50ACFFEC",
+      "start": 14099500,
+      "end": 14100500,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Packet",
+      "type": "5000B3FF",
+      "start": 14100500,
+      "end": 14112000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "20m",
+      "type": "50FF0000",
+      "start": 14112000,
+      "end": 14228000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "SSTV",
+      "type": "50FF004D",
+      "start": 14228000,
+      "end": 14232000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "20m",
+      "type": "50FF0000",
+      "start": 14232000,
+      "end": 14284000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "AM calling frequency",
+      "type": "5000FF00",
+      "start": 14284000,
+      "end": 14288000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "|20m Ham Band",
+      "type": "50FF0000",
+      "start": 14288000,
+      "end": 14350000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Private Land Mobile",
+      "type": "55008080",
+      "start": 14350000,
+      "end": 14995000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Standard Frequency and Time Signal",
+      "type": "44FF00FF",
+      "start": 14995000,
+      "end": 15005000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Transoceanic Flights) Aeronautical Mobile",
+      "type": "40AFFFEE",
+      "start": 15005000,
+      "end": 15100000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (19m) Broadcast",
+      "type": "505D63FF",
+      "start": 15100000,
+      "end": 15800000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 15800000,
+      "end": 16418750,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Distress",
+      "type": "50FF0091",
+      "start": 16418750,
+      "end": 16421250,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 16421250,
+      "end": 17480000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (16m) Broadcast",
+      "type": "505D63FF",
+      "start": 17480000,
+      "end": 17900000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Transoceanic Flights) Aeronautical",
+      "type": "40AFFFEE",
+      "start": 17900000,
+      "end": 18068000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "17m Ham Band",
+      "type": "50FF0000",
+      "start": 18068000,
+      "end": 18168000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "(Ship/Shore) Maritime/ Fixed Service",
+      "type": "55008080",
+      "start": 18168000,
+      "end": 18900000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (15m) Broadcast",
+      "type": "505D63FF",
+      "start": 18900000,
+      "end": 19020000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "55008080",
+      "start": 19020000,
+      "end": 19995000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Standard Frequency and Time Signal",
+      "type": "44FF00FF",
+      "start": 19995000,
+      "end": 20005000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Private Land Mobile",
+      "type": "55008080",
+      "start": 20005000,
+      "end": 21000000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "15m Ham Band",
+      "type": "50FF0000",
+      "start": 21000000,
+      "end": 21450000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Shortwave (13m) Broadcast",
+      "type": "505D63FF",
+      "start": 21450000,
+      "end": 21850000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Aeronautical Mobile",
+      "type": "505D88FF",
+      "start": 21850000,
+      "end": 22000000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "(Ship/Shore) Maritime",
+      "type": "505D88FF",
+      "start": 22000000,
+      "end": 24890000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "12m Ham Band",
+      "type": "50FF0000",
+      "start": 24890000,
+      "end": 24990000,
+      "mode": "USB",
+      "step": "10"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 24990000,
+      "end": 24995000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Standard Frequency and Time Signal",
+      "type": "44FF00FF",
+      "start": 24995000,
+      "end": 25005000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 25005000,
+      "end": 25550000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 25550000,
+      "end": 25670000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Shortwave (11m) Broadcast",
+      "type": "505D63FF",
+      "start": 25670000,
+      "end": 26100000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 26100000,
+      "end": 26957000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "10m ISM",
+      "type": "44006179",
+      "start": 26957000,
+      "end": 27283000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Maritime",
+      "type": "55008080",
+      "start": 27283000,
+      "end": 27410000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "Meteorological Aids",
+      "type": "50738FFF",
+      "start": 27410000,
+      "end": 28000000,
+      "mode": "USB",
+      "step": "100"
+    },
+    {
+      "name": "10m Ham Band",
+      "type": "50FF0000",
+      "start": 28000000,
+      "end": 29700000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Fixed Mobile/ Maritime",
+      "type": "55008080",
+      "start": 29700000,
+      "end": 40660000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "8m ISM",
+      "type": "44006179",
+      "start": 40660000,
+      "end": 40700000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Fixed Mobile/ Maritime",
+      "type": "55008080",
+      "start": 40700000,
+      "end": 50000000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "6m Ham Band",
+      "type": "50FF0000",
+      "start": 50000000,
+      "end": 54000000,
+      "mode": "CW",
+      "step": "10"
+    },
+    {
+      "name": "Radiolocation/ Television VHF",
+      "type": "55008080",
+      "start": 54000000,
+      "end": 72000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 73000000,
+      "end": 74600000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Radiolocation/ FM Broadcast",
+      "type": "55008080",
+      "start": 76000000,
+      "end": 88000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "FM Broadcast",
+      "type": "4000FF9A",
+      "start": 88000000,
+      "end": 108000000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Air Band VOR/ILS",
+      "type": "505D88FF",
+      "start": 108000000,
+      "end": 118000000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Air Band Voice",
+      "type": "505D88FF",
+      "start": 118000000,
+      "end": 121490000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Civilian Aircraft Distress/ Emergency",
+      "type": "50FF0091",
+      "start": 121490000,
+      "end": 121510000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Air Band Voice",
+      "type": "505D88FF",
+      "start": 121510000,
+      "end": 131545000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "ACARS",
+      "type": "400000FF",
+      "start": 131545000,
+      "end": 131555000,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "Air Band Voice",
+      "type": "505D88FF",
+      "start": 131555000,
+      "end": 136637500,
+      "mode": "AM",
+      "step": "100"
+    },
+    {
+      "name": "VDL-M2 (US)",
+      "type": "400000FF",
+      "start": 136637500,
+      "end": 136662500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (US)",
+      "type": "400000FF",
+      "start": 136687500,
+      "end": 136712500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (EU)",
+      "type": "400000FF",
+      "start": 136712500,
+      "end": 136737500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (EU)",
+      "type": "400000FF",
+      "start": 136762500,
+      "end": 136787500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (US)",
+      "type": "400000FF",
+      "start": 136787500,
+      "end": 136812500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (EU)",
+      "type": "400000FF",
+      "start": 136812500,
+      "end": 136837500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "VDL-M2 (EU)",
+      "type": "400000FF",
+      "start": 136862500,
+      "end": 136887500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "Worldwide VDL-M2",
+      "type": "400000FF",
+      "start": 136962500,
+      "end": 136987500,
+      "mode": "RAW",
+      "step": "10"
+    },
+    {
+      "name": "| METEOR",
+      "type": "2200BFFF",
+      "start": 137040000,
+      "end": 137080000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "NOAA-19",
+      "type": "5500FFFF",
+      "start": 137080000,
+      "end": 137120000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "METEOR | ",
+      "type": "2200BFFF",
+      "start": 137120000,
+      "end": 137160000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "DSB NOAA-15 and NOAA-18 ",
+      "type": "44FF00FF",
+      "start": 137333000,
+      "end": 137367000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "NOAA-15",
+      "type": "5500FFFF",
+      "start": 137600000,
+      "end": 137640000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "DSB NOAA-19 ",
+      "type": "44FF00FF",
+      "start": 137753000,
+      "end": 137787000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "NOAA-18",
+      "type": "5500FFFF",
+      "start": 137892500,
+      "end": 137932500,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "ORB. Seg. 1",
+      "type": "33FF4400",
+      "start": 137175000,
+      "end": 137327500,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "ORB. Seg. 2",
+      "type": "33FF4400",
+      "start": 137422500,
+      "end": 137472500,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "Orbcomm Gateway",
+      "type": "55FF8000",
+      "start": 137535000,
+      "end": 137585000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "ORB. Seg. 3",
+      "type": "33FF4400",
+      "start": 137650000,
+      "end": 137750000,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "ORB. Seg. 4",
+      "type": "33FF4400",
+      "start": 137787500,
+      "end": 137812500,
+      "mode": "WFM",
+      "step": "10"
+    },
+    {
+      "name": "2m Ham Band",
+      "type": "50FF0000",
+      "start": 144000000,
+      "end": 144480000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS Voice Uplink",
+      "type": "50FFFF00",
+      "start": 144480000,
+      "end": 144500000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2m",
+      "type": "503CCCFF",
+      "start": 144500000,
+      "end": 145790000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS Voice/ SSTV Downlink",
+      "type": "5500BCFF",
+      "start": 145790000,
+      "end": 145810000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellites",
+      "type": "5033FF00",
+      "start": 145810000,
+      "end": 145815000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS VHF Packet U/D",
+      "type": "50FFFFFF",
+      "start": 145815000,
+      "end": 145835000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellites",
+      "type": "5033FF00",
+      "start": 145835000,
+      "end": 145845000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "SO-50 Uplink",
+      "type": "50FFFF00",
+      "start": 145845000,
+      "end": 145855000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellites",
+      "type": "5033FF00",
+      "start": 145855000,
+      "end": 145870000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-92 Downlink",
+      "type": "5500E6FF",
+      "start": 145870000,
+      "end": 145890000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellites",
+      "type": "5033FF00",
+      "start": 145890000,
+      "end": 145895000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "PO-101 Downlink",
+      "type": "5500E6FF",
+      "start": 145895000,
+      "end": 145905000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellites",
+      "type": "5033FF00",
+      "start": 145905000,
+      "end": 145950000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-91 Downlink",
+      "type": "5500E6FF",
+      "start": 145950000,
+      "end": 145970000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-85 Downlink",
+      "type": "5500E6FF",
+      "start": 145970000,
+      "end": 145980000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-85 Downlink and ISS Repeater Uplink",
+      "type": "5033FF00",
+      "start": 145980000,
+      "end": 145990000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS U/V Repeater Uplink",
+      "type": "55C4FF00",
+      "start": 145990000,
+      "end": 146000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2m Ham Band ",
+      "type": "50FF0000",
+      "start": 146000000,
+      "end": 148000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Orbcomm Uplink",
+      "type": "40FFCD00",
+      "start": 148000000,
+      "end": 150000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Fixed Mobile",
+      "type": "5500C9C9",
+      "start": 150000000,
+      "end": 155987500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "0",
+      "type": "5500C9C9",
+      "start": 155987500,
+      "end": 156012500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "60",
+      "type": "55008080",
+      "start": 156012500,
+      "end": 156037500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "1",
+      "type": "5500C9C9",
+      "start": 156037500,
+      "end": 156062500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "61",
+      "type": "55008080",
+      "start": 156062500,
+      "end": 156087500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2",
+      "type": "5500C9C9",
+      "start": 156087500,
+      "end": 156112500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "62",
+      "type": "55008080",
+      "start": 156112500,
+      "end": 156137500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "3",
+      "type": "5500C9C9",
+      "start": 156137500,
+      "end": 156162500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "63",
+      "type": "55008080",
+      "start": 156162500,
+      "end": 156187500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "4",
+      "type": "5500C9C9",
+      "start": 156187500,
+      "end": 156212500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "64",
+      "type": "55008080",
+      "start": 156212500,
+      "end": 156237500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "5",
+      "type": "5500C9C9",
+      "start": 156237500,
+      "end": 156262500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "65",
+      "type": "55008080",
+      "start": 156262500,
+      "end": 156287500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "6 (Splx)",
+      "type": "5500C9C9",
+      "start": 156287500,
+      "end": 156312500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "66",
+      "type": "55008080",
+      "start": 156312500,
+      "end": 156337500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "7",
+      "type": "5500C9C9",
+      "start": 156337500,
+      "end": 156362500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "67 (Splx)",
+      "type": "55008080",
+      "start": 156362500,
+      "end": 156387500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "8 (Splx)",
+      "type": "5500C9C9",
+      "start": 156387500,
+      "end": 156412500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "68 (Splx)",
+      "type": "55008080",
+      "start": 156412500,
+      "end": 156437500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "9 (Splx)",
+      "type": "5500C9C9",
+      "start": 156437500,
+      "end": 156462500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "69 (Splx)",
+      "type": "55008080",
+      "start": 156462500,
+      "end": 156487500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "10 (Splx)",
+      "type": "5500C9C9",
+      "start": 156487500,
+      "end": 156512500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "70 (Splx)",
+      "type": "55008080",
+      "start": 156512500,
+      "end": 156537500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "11 (Splx)",
+      "type": "5500C9C9",
+      "start": 156537500,
+      "end": 156562500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "71 (Splx)",
+      "type": "55008080",
+      "start": 156562500,
+      "end": 156587500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "12 (Splx)",
+      "type": "5500C9C9",
+      "start": 156587500,
+      "end": 156612500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "72 (Splx)",
+      "type": "55008080",
+      "start": 156612500,
+      "end": 156637500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "13 (Splx)",
+      "type": "5500C9C9",
+      "start": 156637500,
+      "end": 156662500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "73 (Splx)",
+      "type": "55008080",
+      "start": 156662500,
+      "end": 156687500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "14 (Splx)",
+      "type": "5500C9C9",
+      "start": 156687500,
+      "end": 156712500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "74 (Splx)",
+      "type": "55008080",
+      "start": 156712500,
+      "end": 156737500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "15 (Splx)",
+      "type": "5500C9C9",
+      "start": 156737500,
+      "end": 156762500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "75 (Splx)",
+      "type": "55008080",
+      "start": 156762500,
+      "end": 156787500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "International Distress (Ch. 16)",
+      "type": "50FF0091",
+      "start": 156787500,
+      "end": 156812500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "76 (Splx)",
+      "type": "55008080",
+      "start": 156812500,
+      "end": 156837500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "17 (Splx)",
+      "type": "5500C9C9",
+      "start": 156837500,
+      "end": 156862500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "77 (Splx)",
+      "type": "55008080",
+      "start": 156862500,
+      "end": 156887500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "18",
+      "type": "5500C9C9",
+      "start": 156887500,
+      "end": 156912500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "78",
+      "type": "55008080",
+      "start": 156912500,
+      "end": 156937500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "19",
+      "type": "5500C9C9",
+      "start": 156937500,
+      "end": 156962500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "79",
+      "type": "55008080",
+      "start": 156962500,
+      "end": 156987500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "20",
+      "type": "5500C9C9",
+      "start": 156987500,
+      "end": 157012500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "80",
+      "type": "55008080",
+      "start": 157012500,
+      "end": 157037500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "21",
+      "type": "5500C9C9",
+      "start": 157037500,
+      "end": 157062500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "81",
+      "type": "55008080",
+      "start": 157062500,
+      "end": 157087500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "22",
+      "type": "5500C9C9",
+      "start": 157087500,
+      "end": 157112500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "82",
+      "type": "55008080",
+      "start": 157112500,
+      "end": 157137500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "23",
+      "type": "5500C9C9",
+      "start": 157137500,
+      "end": 157162500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "83",
+      "type": "55008080",
+      "start": 157162500,
+      "end": 157187500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "24",
+      "type": "5500C9C9",
+      "start": 157187500,
+      "end": 157212500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "84",
+      "type": "55008080",
+      "start": 157212500,
+      "end": 157237500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "25",
+      "type": "5500C9C9",
+      "start": 157237500,
+      "end": 157262500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "85",
+      "type": "55008080",
+      "start": 157262500,
+      "end": 157287500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "26",
+      "type": "5500C9C9",
+      "start": 157287500,
+      "end": 157312500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "86",
+      "type": "55008080",
+      "start": 157312500,
+      "end": 157337500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "27",
+      "type": "5500C9C9",
+      "start": 157337500,
+      "end": 157362500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "87 (Splx)",
+      "type": "55008080",
+      "start": 157362500,
+      "end": 157387500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "28",
+      "type": "5500C9C9",
+      "start": 157387500,
+      "end": 157412500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "88 (Splx)",
+      "type": "55008080",
+      "start": 157412500,
+      "end": 157437500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Marine",
+      "type": "55008080",
+      "start": 157437500,
+      "end": 160587500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Marine VHF Ch. 0 (Coast Stations)",
+      "type": "5500C9C9",
+      "start": 160587500,
+      "end": 160612500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "60",
+      "type": "55008080",
+      "start": 160612500,
+      "end": 160637500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "1",
+      "type": "5500C9C9",
+      "start": 160637500,
+      "end": 160662500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "61",
+      "type": "55008080",
+      "start": 160662500,
+      "end": 160687500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2",
+      "type": "5500C9C9",
+      "start": 160687500,
+      "end": 160712500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "62",
+      "type": "55008080",
+      "start": 160712500,
+      "end": 160737500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "3",
+      "type": "5500C9C9",
+      "start": 160737500,
+      "end": 160762500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "63",
+      "type": "55008080",
+      "start": 160762500,
+      "end": 160787500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "4",
+      "type": "5500C9C9",
+      "start": 160787500,
+      "end": 160812500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "64",
+      "type": "55008080",
+      "start": 160812500,
+      "end": 160837500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "5",
+      "type": "5500C9C9",
+      "start": 160837500,
+      "end": 160862500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "65",
+      "type": "55008080",
+      "start": 160862500,
+      "end": 160887500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Marine",
+      "type": "5500C9C9",
+      "start": 160887500,
+      "end": 160912500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "66",
+      "type": "55008080",
+      "start": 160912500,
+      "end": 160937500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "7",
+      "type": "5500C9C9",
+      "start": 160937500,
+      "end": 160962500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "18",
+      "type": "55008080",
+      "start": 161487500,
+      "end": 161512500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "78",
+      "type": "5500C9C9",
+      "start": 161512500,
+      "end": 161537500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "19",
+      "type": "55008080",
+      "start": 161537500,
+      "end": 161562500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "79",
+      "type": "5500C9C9",
+      "start": 161562500,
+      "end": 161587500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "20",
+      "type": "55008080",
+      "start": 161587500,
+      "end": 161612500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "80",
+      "type": "5500C9C9",
+      "start": 161612500,
+      "end": 161637500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "21",
+      "type": "55008080",
+      "start": 161637500,
+      "end": 161662500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "81",
+      "type": "5500C9C9",
+      "start": 161662500,
+      "end": 161687500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "22",
+      "type": "55008080",
+      "start": 161687500,
+      "end": 161712500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "82",
+      "type": "5500C9C9",
+      "start": 161712500,
+      "end": 161737500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "23",
+      "type": "55008080",
+      "start": 161737500,
+      "end": 161762500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "83",
+      "type": "5500C9C9",
+      "start": 161762500,
+      "end": 161787500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "24",
+      "type": "55008080",
+      "start": 161787500,
+      "end": 161812500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "84",
+      "type": "5500C9C9",
+      "start": 161812500,
+      "end": 161837500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "25",
+      "type": "55008080",
+      "start": 161837500,
+      "end": 161862500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "85",
+      "type": "5500C9C9",
+      "start": 161862500,
+      "end": 161887500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "26",
+      "type": "55008080",
+      "start": 161887500,
+      "end": 161912500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "86",
+      "type": "5500C9C9",
+      "start": 161912500,
+      "end": 161937500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "27",
+      "type": "55008080",
+      "start": 161937500,
+      "end": 161962500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AIS Ch. A (87B) ",
+      "type": "5500C9C9",
+      "start": 161962500,
+      "end": 161987500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "88B/ 28",
+      "type": "55008080",
+      "start": 161987500,
+      "end": 162012500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AIS Ch. B",
+      "type": "5500C9C9",
+      "start": 162012500,
+      "end": 162037500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Marine",
+      "type": "55008080",
+      "start": 162037500,
+      "end": 162137500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "31",
+      "type": "5500C9C9",
+      "start": 162137500,
+      "end": 162162500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Fixed Mobile/ Marine",
+      "type": "55008080",
+      "start": 162162500,
+      "end": 174000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Television VHF",
+      "type": "50FFE55C",
+      "start": 174000000,
+      "end": 216000000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Radiolocation/ Television VHF",
+      "type": "55008080",
+      "start": 216000000,
+      "end": 223000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Standard Frequency and Time Signal-Satellite Service",
+      "type": "50DE91EE",
+      "start": 400050000,
+      "end": 400150000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "(NVNG)/ Mobile Satellite Service (MSS)",
+      "type": "40FFCD00",
+      "start": 400150000,
+      "end": 401000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Earth Exploration Satellite",
+      "type": "4000FFFF",
+      "start": 401000000,
+      "end": 403000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Distress Beacons (S and RSAT| NOAAs 15, 18, 19)",
+      "type": "50FF0091",
+      "start": 406000000,
+      "end": 406100000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 406100000,
+      "end": 410000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "70cm Ham Band",
+      "type": "50FF0000",
+      "start": 430000000,
+      "end": 433050000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared 70cm Ham and 70cm ISM",
+      "type": "44006179",
+      "start": 433050000,
+      "end": 434790000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "70cm Ham Band",
+      "type": "50FF0000",
+      "start": 434790000,
+      "end": 435172000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-85 Uplink",
+      "type": "50FFFF00",
+      "start": 435172000,
+      "end": 435192000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 435192000,
+      "end": 435240000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-91 Uplink",
+      "type": "50FFFF00",
+      "start": 435240000,
+      "end": 435260000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 435260000,
+      "end": 435340000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-92 Uplink",
+      "type": "50FFFF00",
+      "start": 435340000,
+      "end": 435360000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 435360000,
+      "end": 436785000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "SO-50 Downlink",
+      "type": "5500E6FF",
+      "start": 436785000,
+      "end": 436805000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 436805000,
+      "end": 437490000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "PO-101 Uplink",
+      "type": "50FFFF00",
+      "start": 437490000,
+      "end": 437510000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 437510000,
+      "end": 437540000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS UHF Packet U/D",
+      "type": "5033FF00",
+      "start": 437540000,
+      "end": 437560000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 437560000,
+      "end": 437790000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ISS U/V Repeater Downlink",
+      "type": "5500E6FF",
+      "start": 437790000,
+      "end": 437810000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite",
+      "type": "5033FF00",
+      "start": 437810000,
+      "end": 438000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "70cm Ham Band",
+      "type": "50FF0000",
+      "start": 438000000,
+      "end": 440000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "PMR446 Ch. 1",
+      "type": "554545FF",
+      "start": 446000000,
+      "end": 446012500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2",
+      "type": "552929FF",
+      "start": 446012500,
+      "end": 446025000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "3",
+      "type": "554545FF",
+      "start": 446025000,
+      "end": 446037500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "4",
+      "type": "552929FF",
+      "start": 446037500,
+      "end": 446050000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "5",
+      "type": "554545FF",
+      "start": 446050000,
+      "end": 446062500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "6",
+      "type": "552929FF",
+      "start": 446062500,
+      "end": 446075000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "7",
+      "type": "554545FF",
+      "start": 446075000,
+      "end": 446087500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "8",
+      "type": "552929FF",
+      "start": 446087500,
+      "end": 446100000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "9",
+      "type": "554545FF",
+      "start": 446100000,
+      "end": 446112500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "10",
+      "type": "552929FF",
+      "start": 446112500,
+      "end": 446125000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "11",
+      "type": "554545FF",
+      "start": 446125000,
+      "end": 446137500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "12",
+      "type": "552929FF",
+      "start": 446137500,
+      "end": 446150000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "13",
+      "type": "554545FF",
+      "start": 446150000,
+      "end": 446162500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "14",
+      "type": "552929FF",
+      "start": 446162500,
+      "end": 446175000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "15",
+      "type": "554545FF",
+      "start": 446175000,
+      "end": 446187500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "PMR446 Ch. 16",
+      "type": "552929FF",
+      "start": 446187500,
+      "end": 446200000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Metops' DCP configuration control",
+      "type": "5091A4EE",
+      "start": 465986500,
+      "end": 465988500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Television UHF",
+      "type": "50FFE55C",
+      "start": 470000000,
+      "end": 608000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radio Astronomy (Ch.37)",
+      "type": "40FFFF00",
+      "start": 608000000,
+      "end": 614000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Television UHF",
+      "type": "50FFE55C",
+      "start": 614000000,
+      "end": 806000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "33cm ISM",
+      "type": "44006179",
+      "start": 902000000,
+      "end": 928000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Aviation",
+      "type": "505D88FF",
+      "start": 960000000,
+      "end": 977300000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ADSB 978",
+      "type": "400000FF",
+      "start": 977300000,
+      "end": 978700000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Aviation",
+      "type": "505D88FF",
+      "start": 978700000,
+      "end": 1089950000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "ADSB",
+      "type": "400000FF",
+      "start": 1089950000,
+      "end": 1090050000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Aviation",
+      "type": "505D88FF",
+      "start": 1090050000,
+      "end": 1164000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "GPS L5 and GALILEO E5a",
+      "type": "50FFFF00",
+      "start": 1164000000,
+      "end": 1189000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "GALILEO E5a and GLONASS G3",
+      "type": "50FF44FF",
+      "start": 1189000000,
+      "end": 1214000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radionavigation Satellite Service",
+      "type": "4089FF00",
+      "start": 1214000000,
+      "end": 1215000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "GPS L2",
+      "type": "50FFFF00",
+      "start": 1215000000,
+      "end": 1237000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "GPS L2 and GLONASS G2",
+      "type": "50FFFF00",
+      "start": 1237000000,
+      "end": 1239600000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "GLONASS G2",
+      "type": "50FF4400",
+      "start": 1239600000,
+      "end": 1240000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "23cm Ham Band",
+      "type": "50FF0000",
+      "start": 1240000000,
+      "end": 1267346500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "AO-92 Uplink",
+      "type": "50FFFF00",
+      "start": 1267346500,
+      "end": 1267371500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "23cm Ham Band",
+      "type": "50FF0000",
+      "start": 1267371500,
+      "end": 1295800000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "EME",
+      "type": "5086FFFC",
+      "start": 1295800000,
+      "end": 1296080000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "23cm Ham Band",
+      "type": "50FF0000",
+      "start": 1296080000,
+      "end": 1300000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Radio Astronomy (1390 - 1395 MHz Band)",
+      "type": "40FFFF00",
+      "start": 1390000000,
+      "end": 1395000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Earth Exploration-Satellite/ Radio Astronomy",
+      "type": "5091A4EE",
+      "start": 1400000000,
+      "end": 1420404750,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Hygrogen Line",
+      "type": "40FFFF00",
+      "start": 1420404750,
+      "end": 1420406750,
+      "mode": "NFM",
+      "step": "10"
+    },
+    {
+      "name": "Earth Exploration-Satellite/ Radio Astronomy",
+      "type": "5091A4EE",
+      "start": 1420406750,
+      "end": 1427000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Inmarsat Satellites",
+      "type": "33FF4400",
+      "start": 1525000000,
+      "end": 1544000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "GALILEO SAR Downlink",
+      "type": "5000BFFF",
+      "start": 1544000000,
+      "end": 1545000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Inmarsat Satellites",
+      "type": "33FF4400",
+      "start": 1545000000,
+      "end": 1559000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "GALILEO E1",
+      "type": "500000AA",
+      "start": 1559000000,
+      "end": 1563000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "GPS L1 and GALILEO E1",
+      "type": "50FFFF00",
+      "start": 1563000000,
+      "end": 1587000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "GALILEO E1",
+      "type": "500000AA",
+      "start": 1587000000,
+      "end": 1591000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radionavigation Satellite Service",
+      "type": "4089FF00",
+      "start": 1591000000,
+      "end": 1593000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "GLONASS G1",
+      "type": "50FF4400",
+      "start": 1593000000,
+      "end": 1610000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Aviation Service, and the Mobile Satellite Service (MSS)",
+      "type": "40FFCD00",
+      "start": 1610000000,
+      "end": 1610600000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Mobile Satellite Service (MSS)",
+      "type": "40FFCD00",
+      "start": 1610600000,
+      "end": 1616000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Iridium Satellites",
+      "type": "33FF672F",
+      "start": 1616000000,
+      "end": 1626000833,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Ch.1 Guard Channel (Iridium)",
+      "type": "55FF672F",
+      "start": 1626000833,
+      "end": 1626040833,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "2 Guard Channel",
+      "type": "55FF672F",
+      "start": 1626042500,
+      "end": 1626082500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "3 Quaternary Messaging",
+      "type": "55FF672F",
+      "start": 1626084167,
+      "end": 1626124167,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "4 Tertiary Messaging",
+      "type": "55FF672F",
+      "start": 1626125833,
+      "end": 1626165833,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "5 Guard Channel",
+      "type": "55FF672F",
+      "start": 1626167500,
+      "end": 1626207500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "6 Guard Channel",
+      "type": "55FF672F",
+      "start": 1626209167,
+      "end": 1626249167,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "7 Ring Alert",
+      "type": "55FF672F",
+      "start": 1626250833,
+      "end": 1626290833,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "8 Guard Channel",
+      "type": "55FF672F",
+      "start": 1626292500,
+      "end": 1626332500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "9 Guard Channel",
+      "type": "55FF672F",
+      "start": 1626334167,
+      "end": 1626374167,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "10 Secondary Messaging",
+      "type": "55FF672F",
+      "start": 1626375833,
+      "end": 1626415833,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "11 Primary Messaging",
+      "type": "55FF672F",
+      "start": 1626417500,
+      "end": 1626457500,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "12 Guard Channel |Iridium",
+      "type": "55FF672F",
+      "start": 1626459167,
+      "end": 1626499167,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Inmarsat Satellites",
+      "type": "33FF4400",
+      "start": 1626500000,
+      "end": 1660500000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 1660500000,
+      "end": 1668400000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Meteorological Aids and Radio Astronomy",
+      "type": "50738FFF",
+      "start": 1668400000,
+      "end": 1670000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Government Use Meteorological-Satellite",
+      "type": "50738FFF",
+      "start": 1670000000,
+      "end": 1675000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Meteorological Satellite",
+      "type": "50738FFF",
+      "start": 1675000000,
+      "end": 1696500000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "HRPT Shared",
+      "type": "AA000000",
+      "start": 1696500000,
+      "end": 1697750000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "NOAA-19 Center",
+      "type": "557AFFFF",
+      "start": 1697750000,
+      "end": 1698250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared",
+      "type": "AA000000",
+      "start": 1698250000,
+      "end": 1699750000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "METEOR M2 Center",
+      "type": "555CBABA",
+      "start": 1699750000,
+      "end": 1700250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared",
+      "type": "AA000000",
+      "start": 1700250000,
+      "end": 1701050000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Metop-A, Metop-B, FY-3C Center",
+      "type": "55F07070",
+      "start": 1701050000,
+      "end": 1701550000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared",
+      "type": "AA000000",
+      "start": 1701550000,
+      "end": 1702250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "NOAA-15 Center",
+      "type": "557AFFFF",
+      "start": 1702250000,
+      "end": 1702750000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared",
+      "type": "AA000000",
+      "start": 1702750000,
+      "end": 1704250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "FY-3A, FY-3B Center",
+      "type": "55FFBA2E",
+      "start": 1704250000,
+      "end": 1704750000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "METEOR M2-2 Center",
+      "type": "555CBABA",
+      "start": 1704750000,
+      "end": 1705250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared",
+      "type": "AA000000",
+      "start": 1705250000,
+      "end": 1706750000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "NOAA-18, Metop-C Center",
+      "type": "557AFFFF",
+      "start": 1706750000,
+      "end": 1707250000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "HRPT Shared",
+      "type": "AA000000",
+      "start": 1707250000,
+      "end": 1708500000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "Meteorological Satellite",
+      "type": "50738FFF",
+      "start": 1708500000,
+      "end": 1710000000,
+      "mode": "WFM",
+      "step": "1000"
+    },
+    {
+      "name": "Earth-to-Space and Space-to-Space Communications",
+      "type": "5091A4EE",
+      "start": 2025000000,
+      "end": 2110000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Radio Astronomy",
+      "type": "40FFFF00",
+      "start": 2290000000,
+      "end": 2300000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "13cm Ham Band (Lower)",
+      "type": "50FF0000",
+      "start": 2300000000,
+      "end": 2310000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Satellite Digital Audio Radio Service (SDARS)",
+      "type": "5000ABFF",
+      "start": 2320000000,
+      "end": 2332500000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "SiriusXM Satellites",
+      "type": "40004DFF",
+      "start": 2332500000,
+      "end": 2345000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Aviation Service and the Wireless Communications Service (WCS)",
+      "type": "505D88FF",
+      "start": 2345000000,
+      "end": 2360000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "Aviation",
+      "type": "505D88FF",
+      "start": 2360000000,
+      "end": 2390000000,
+      "mode": "NFM",
+      "step": "1000"
+    },
+    {
+      "name": "13cm Ham Band (Upper)|  Analog and Digital",
+      "type": "50FF0000",
+      "start": 2390000000,
+      "end": 2393750000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Experimental",
+      "type": "503CCCFF",
+      "start": 2393750000,
+      "end": 2394750000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Analog and Digital",
+      "type": "50FF0000",
+      "start": 2394750000,
+      "end": 2400000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "Shared Satellite and 13cm ISM",
+      "type": "5033FF00",
+      "start": 2400000000,
+      "end": 2401000000,
+      "mode": "NFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with Satellite and 13cm ISM",
+      "type": "44006179",
+      "start": 2401000000,
+      "end": 2410000000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with Broadband Modes and 13cm ISM",
+      "type": "44006179",
+      "start": 2410000000,
+      "end": 2411900000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi Ch. 1 (Center)",
+      "type": "50000000",
+      "start": 2411900000,
+      "end": 2412100000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with Broadband Modes 13cm ISM  |13cm Ham Band",
+      "type": "44006179",
+      "start": 2412100000,
+      "end": 2450000000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with ISM Band (13cm)",
+      "type": "44006179",
+      "start": 2450000000,
+      "end": 2451900000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi Ch. 9",
+      "type": "50000000",
+      "start": 2451900000,
+      "end": 2452100000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with ISM Band (13cm)",
+      "type": "44006179",
+      "start": 2452100000,
+      "end": 2456900000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi Ch. 10",
+      "type": "50000000",
+      "start": 2456900000,
+      "end": 2457100000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with ISM Band (13cm)",
+      "type": "44006179",
+      "start": 2457100000,
+      "end": 2461900000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi Ch. 11",
+      "type": "50000000",
+      "start": 2461900000,
+      "end": 2462100000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "WiFi shared with ISM Band (13cm)",
+      "type": "44006179",
+      "start": 2462100000,
+      "end": 2473000000,
+      "mode": "WFM",
+      "step": "100"
+    },
+    {
+      "name": "ISM Band (13cm)",
+      "type": "44006179",
+      "start": 2473000000,
+      "end": 2500000000,
+      "mode": "WFM",
+      "step": "100"
+    }
+  ]
+}

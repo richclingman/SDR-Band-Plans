@@ -15,8 +15,11 @@ type JsonRanges struct {
 }
 
 type JsonRange struct {
-	Description  string `json:"name"`
-	Color        string `json:"type"`
+	Description string `json:"name"`
+
+	// TODO: Can call this "Type" since it can be "Amateur" etc
+	Color string `json:"type"`
+
 	MinFrequency int    `json:"start"`
 	MaxFrequency int    `json:"end"`
 	Mode         string `json:"mode,omitempty"`
