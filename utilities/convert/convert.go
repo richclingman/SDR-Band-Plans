@@ -28,7 +28,12 @@ func main() {
 	ranges, _ := ReadXml(*from)
 
 	for i, r := range ranges.Ranges {
-		fmt.Printf("%3d: %s %s\n%+v\n\n", i, r.Color, r.Mode, r)
+		fmt.Printf("%3d: %+v\n", i, r)
+
+		// TODO: convert xml to json
+
 	}
+
+	// TODO: write json
 
 }
